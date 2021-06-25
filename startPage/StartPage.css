@@ -21,6 +21,10 @@ body {
 	color: #fff;
 	font-size: 20px;
 }
+.banner-text ul li a {
+	text-decoration: none;
+	color: #fff;
+}
 .banner-text ul li:hover {
 	cursor: pointer;
 }
